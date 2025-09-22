@@ -4,7 +4,6 @@
 **Flag:** 'pwn.college{cEMJbCepeJrDg1fXpmIRX4WG0Iq.QX3YjM1wyMxkjNzEzW}'
 
 First we execute the 'hello' command to get the flag keeping in mind that HELLO will not give the flag
-
 ```
 hacker@hello~intro-to-commands:~$ hello
 Success! Here is your flag:
