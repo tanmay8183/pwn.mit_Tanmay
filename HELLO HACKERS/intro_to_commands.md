@@ -1,0 +1,19 @@
+# Intro To Arguments
+Learning basics on interacting with the command line
+
+## My Solve
+**Flag:** 'pwn.college{cEMJbCepeJrDg1fXpmIRX4WG0Iq.QX3YjM1wyMxkjNzEzW}'
+
+First we execute the 'hello' command to get the flag keeping in mind that HELLO will not give the flag
+
+```
+hacker@hello~intro-to-commands:~$ hello
+Success! Here is your flag:
+pwn.college{cEMJbCepeJrDg1fXpmIRX4WG0Iq.QX3YjM1wyMxkjNzEzW}
+```
+
+## What I Learned
+I learnt that the command line is case sensitive and how to execute the most basic commands
+
+## References
+None.
