@@ -1,4 +1,4 @@
-# Intro To Arguments
+# ROOT
 The challenge tells us on how to initialise the filesystem using "/" 
 ## My Solve
 **Flag:** 'pwn.college{4KaPCKhglJOASCmGzG0anXt9Egb.QX4cTO0wyMxkjNzEzW}'
